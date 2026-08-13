@@ -13,9 +13,10 @@ SQL Server | PostgreSQL | Docker | Azure | Git | CI/CD | Template Designing
 
 ### 🚀 Featured Projects
 
-- Full-Stack Microservices Platform
-- ASP.NET Core REST API
-- Angular Application
+- .NET Microservices Project
+- Angular Full-Stack Project
+- ASP.NET Core Web API
+- Functional Testing 
 - Azure CI/CD Project
 
 ### 🔗 Connect With Me
